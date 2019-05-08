@@ -1,6 +1,8 @@
 fav_colours = ['blue', 'purple', 'silver']
+
 ages = [21, 19, 15, 3]
-flip_coin = ['heads', 'heads', 'heads', 'heads', 'heads']
+
+flip_coin = ['heads', 'tails', 'heads', 'heads', 'heads']
 fav_perf_artists = ['Shwekey', 'Matt Dubb', '8th Day']
 
 words_dictionary = {
